@@ -10,7 +10,7 @@
 ![image](https://github.com/cengarm/Rent-A-Car/assets/126611512/11b53350-aefd-4744-bea3-0d302c7fe0f4)
 
 ## * Some measures have been taken to control certain errors.
-### As a rule  when you want to add a car model or brand, Size should be between '3' and '20' 
+### As a rule  when you want to add a car model or brand, size should be between '3' and '20' 
 ![image](https://github.com/cengarm/Rent-A-Car/assets/126611512/76af1148-e3f0-4798-aee7-79d1b5fb1d52)
 
 ## I used PostgreSQL for database

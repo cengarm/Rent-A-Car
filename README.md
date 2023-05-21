@@ -1,7 +1,7 @@
 # Rent-A-Car
 ## This is a rent a car application. Developed using Spring Boot and Java
 
-# What you can control in this api?
+# What can you control in this api?
 
 ## * You can check, add, update and delete which brand cars belong to Rent a Car.
 ![image](https://github.com/cengarm/Rent-A-Car/assets/126611512/991f5f4f-ccfc-42a6-8557-63a67d19754e)

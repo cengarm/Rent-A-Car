@@ -3,10 +3,10 @@
 
 # What can you control in this api?
 
-## * You can check, add, update and delete which brand cars belong to Rent a Car.
+## * You can check, add, update and delete which brand car belongs to Rent a Car.
 ![image](https://github.com/cengarm/Rent-A-Car/assets/126611512/991f5f4f-ccfc-42a6-8557-63a67d19754e)
 
-## * You can check, add, uptade and delete which model cars belong to Rent a Car.
+## * You can check, add, uptade and delete which model car belongs to Rent a Car.
 ![image](https://github.com/cengarm/Rent-A-Car/assets/126611512/11b53350-aefd-4744-bea3-0d302c7fe0f4)
 
 ## * Some measures have been taken to control certain errors.
